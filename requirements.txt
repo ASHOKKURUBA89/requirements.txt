@@ -1,5 +1,4 @@
-import streamlit
-import snowflake.connector
-from snowflake.snowpark.session import Session
-
-print("All dependencies installed successfully!")
+#requirements.txt
+snowflake-snowpark-python
+streamlit
+requests
